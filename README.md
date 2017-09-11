@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Theme
-[Admin Login](https://websitebloger.github.io/dashgum/Theme/)
+**[Admin Login](https://websitebloger.github.io/dashgum/Theme/)**
 ## Header 2
 ### Header 3
 
