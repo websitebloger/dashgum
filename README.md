@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Theme 
-Theme [Admin Login](https://websitebloger.github.io/dashgum/Theme/).
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -27,7 +26,7 @@ Theme [Admin Login](https://websitebloger.github.io/dashgum/Theme/).
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://websitebloger.github.io/dashgum/Theme/).
+For more details see [Theme Update](https://websitebloger.github.io/dashgum/Theme/).
 
 ### Jekyll Themes
 
